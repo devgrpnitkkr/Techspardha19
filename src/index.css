@@ -3,7 +3,7 @@
   background-image: url('./grains.png');
   height: 300%;
   left: -50%;
-  opacity: 1;
+  opacity: .6;
   z-index: -2;
   position: fixed;
   top: -110%;

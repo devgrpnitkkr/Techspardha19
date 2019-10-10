@@ -14,7 +14,7 @@
     clip: rect(0, 900px, 0, 0);
     background-color: #0c0c0c;
     color: white;
-    animation: glitch 3s infinite alternate-reverse;
+    animation: glitch 2s infinite alternate-reverse;
     animation-delay: 4s;
 }
 
@@ -26,8 +26,8 @@
     clip: rect(0, 900px, 0, 0);
     background-color: #0c0c0c;
     color: white;
-    animation: glitch 3s infinite alternate-reverse;
-    animation-delay: 4s;
+    animation: glitch 2s infinite alternate-reverse;
+    animation-delay: 3s;
 }
 
 @keyframes fadeWhite {
